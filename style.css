@@ -1,0 +1,39 @@
+ 
+
+ body{height: 100vh;
+       background-color: rgb(39, 97, 97);
+       background-image: url(shubham3.jpg);
+       background-repeat: no-repeat ;
+       background-size: cover; }
+    bar{background-color: black;
+         color: white;}
+
+.navbar{background-color: black;
+        color: white;
+    }
+    ul{display: flex;
+    }
+    li{list-style-type: none;
+      padding-left: 30px;
+    padding-top: 20px; 
+    font-size: 30px; }
+
+#img{padding-right: 150px;}
+#img{height: 50px; width: 50px;}
+
+#div1{height: 200px; width: 200px;
+     background-color: aqua;}
+ #div2{height: 200px; width: 200px;
+        background-color: aqua;}
+ #div3{height: 200px; width: 200px;
+            background-color: aqua;}
+       
+     
+.container{height: 550px;
+   bottom: 3px solid red;
+      margin-top: 100px;
+       display: flex;}
+ footer{color: white;
+      background-color: black;
+       height: 50px;
+    }
